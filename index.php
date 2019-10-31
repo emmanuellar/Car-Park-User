@@ -1,2 +1,2 @@
-<?php include_once("partner.html");
+<?php include_once("index2.html");
 ?>
